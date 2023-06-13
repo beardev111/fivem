@@ -1,0 +1,22 @@
+{
+  "global": {
+    "verbose": false,
+    "serverName": null,
+    "language": "en"
+  },
+  "logger": {},
+  "monitor": {
+    "restarterSchedule": []
+  },
+  "webServer": {},
+  "discordBot": {
+    "enabled": false,
+    "token": null,
+    "announceChannel": null
+  },
+  "fxRunner": {
+    "serverDataPath": null,
+    "cfgPath": null,
+    "autostart": true
+  }
+}

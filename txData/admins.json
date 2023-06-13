@@ -1,0 +1,21 @@
+[
+  {
+    "name": "mked0n",
+    "master": true,
+    "password_hash": "$2a$11$m5CBdYIxEI.VOFLlnzJ7KeCoqT73GY.alh1Rh3jVNNloJRWNKuUye",
+    "providers": {
+      "citizenfx": {
+        "id": "mked0n",
+        "identifier": "fivem:10869276",
+        "data": {
+          "sub": "7908cb7da194839c308c660d7959dad4",
+          "nameid": "https://forum.cfx.re/internal/user/10869276",
+          "name": "mked0n",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/mked0n/256/3621426_2.png",
+          "profile": "https://forum.cfx.re/u/mked0n"
+        }
+      }
+    },
+    "permissions": []
+  }
+]
