@@ -1,0 +1,25 @@
+
+================================================================
+======== txAdmin Starting - 13/06/2023 15:50:04                 
+================================================================
+[15:50:43] [beardev111] created admins file
+[15:50:56] [beardev111] Changing global settings via setup stepper and started Deployer.
+[15:51:06] [beardev111] Setting recipe.
+[15:51:20] [beardev111] Running recipe.
+[15:51:51] [beardev111] Completed and committed server deploy.
+
+================================================================
+======== txAdmin Starting - 13/06/2023 16:03:37                 
+================================================================
+[16:05:31] [beardev111] logged in from 127.0.0.1 via password
+[16:07:56] [beardev111] RESTART SERVER
+[16:08:55] [beardev111] logged in via in-game ui
+[16:11:10] [beardev111] refresh
+[16:11:27] [beardev111] start ch_car
+[16:13:50] [beardev111] refresh
+[16:13:56] [beardev111] start ch_gui
+[16:14:02] [beardev111] start ch_hoodcontrol
+[16:14:07] [beardev111] start ch_nui
+[16:14:12] [beardev111] start ch_spawn
+[16:14:17] [beardev111] start ch_teleporter
+[16:14:20] [beardev111] start ch_weapon
