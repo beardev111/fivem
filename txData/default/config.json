@@ -1,5 +1,6 @@
 {
   "global": {
+<<<<<<< HEAD
     "serverName": "bearDev RP Server",
     "language": "en",
     "menuEnabled": true,
@@ -41,5 +42,25 @@
     "serverDataPath": "E:/dev/beardev-fivem/txData/CFXDefault_88BA8B.base/",
     "cfgPath": "E:/dev/beardev-fivem/txData/CFXDefault_88BA8B.base/server.cfg",
     "onesync": "on"
+=======
+    "verbose": false,
+    "serverName": null,
+    "language": "en"
+  },
+  "logger": {},
+  "monitor": {
+    "restarterSchedule": []
+  },
+  "webServer": {},
+  "discordBot": {
+    "enabled": false,
+    "token": null,
+    "announceChannel": null
+  },
+  "fxRunner": {
+    "serverDataPath": null,
+    "cfgPath": null,
+    "autostart": true
+>>>>>>> 9b0e144aa65d650b1773a49c2b6fc18a4e7c8e05
   }
 }

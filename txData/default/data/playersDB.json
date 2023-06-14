@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"version":2,"players":[{"license":"d2dda25355bdb0063bab9df26f76d7849f797fd4","name":"Buckets86","playTime":97,"tsJoined":1686683318,"tsLastConnection":1686701679,"notes":{"text":"","lastAdmin":null,"tsLastEdit":null}},{"license":"3127c5c28231878b18706a1d3ec378d28f35569e","name":"mked0n","playTime":43,"tsJoined":1686684242,"tsLastConnection":1686686755,"notes":{"text":"","lastAdmin":null,"tsLastEdit":null}}],"actions":[],"pendingWL":[]}
+=======
+{"version":2,"players":[],"actions":[],"pendingWL":[]}
+>>>>>>> 9b0e144aa65d650b1773a49c2b6fc18a4e7c8e05

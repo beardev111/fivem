@@ -1,5 +1,6 @@
 [
   {
+<<<<<<< HEAD
     "name": "beardev111",
     "master": true,
     "password_hash": "$2a$11$FFAnnR5bSM66B/xqmQnlOO.IXPi/pB3rBpEzLEEnJrQJ9eJTJYlgu",
@@ -13,6 +14,21 @@
           "name": "beardev111",
           "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/beardev111/256/3605651_2.png",
           "profile": "https://forum.cfx.re/u/beardev111"
+=======
+    "name": "mked0n",
+    "master": true,
+    "password_hash": "$2a$11$m5CBdYIxEI.VOFLlnzJ7KeCoqT73GY.alh1Rh3jVNNloJRWNKuUye",
+    "providers": {
+      "citizenfx": {
+        "id": "mked0n",
+        "identifier": "fivem:10869276",
+        "data": {
+          "sub": "7908cb7da194839c308c660d7959dad4",
+          "nameid": "https://forum.cfx.re/internal/user/10869276",
+          "name": "mked0n",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/mked0n/256/3621426_2.png",
+          "profile": "https://forum.cfx.re/u/mked0n"
+>>>>>>> 9b0e144aa65d650b1773a49c2b6fc18a4e7c8e05
         }
       }
     },
