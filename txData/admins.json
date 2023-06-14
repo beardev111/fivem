@@ -1,0 +1,21 @@
+[
+  {
+    "name": "beardev111",
+    "master": true,
+    "password_hash": "$2a$11$FFAnnR5bSM66B/xqmQnlOO.IXPi/pB3rBpEzLEEnJrQJ9eJTJYlgu",
+    "providers": {
+      "citizenfx": {
+        "id": "beardev111",
+        "identifier": "fivem:10838085",
+        "data": {
+          "sub": "271d1d7a4aa50bb58d496931c8380b7b",
+          "nameid": "https://forum.cfx.re/internal/user/10838085",
+          "name": "beardev111",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/beardev111/256/3605651_2.png",
+          "profile": "https://forum.cfx.re/u/beardev111"
+        }
+      }
+    },
+    "permissions": []
+  }
+]

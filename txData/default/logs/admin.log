@@ -1,0 +1,85 @@
+
+================================================================
+======== txAdmin Starting - 13/06/2023 15:50:04                 
+================================================================
+[15:50:43] [beardev111] created admins file
+[15:50:56] [beardev111] Changing global settings via setup stepper and started Deployer.
+[15:51:06] [beardev111] Setting recipe.
+[15:51:20] [beardev111] Running recipe.
+[15:51:51] [beardev111] Completed and committed server deploy.
+
+================================================================
+======== txAdmin Starting - 13/06/2023 16:03:37                 
+================================================================
+[16:05:31] [beardev111] logged in from 127.0.0.1 via password
+[16:07:56] [beardev111] RESTART SERVER
+[16:08:55] [beardev111] logged in via in-game ui
+[16:11:10] [beardev111] refresh
+[16:11:27] [beardev111] start ch_car
+[16:13:50] [beardev111] refresh
+[16:13:56] [beardev111] start ch_gui
+[16:14:02] [beardev111] start ch_hoodcontrol
+[16:14:07] [beardev111] start ch_nui
+[16:14:12] [beardev111] start ch_spawn
+[16:14:17] [beardev111] start ch_teleporter
+[16:14:20] [beardev111] start ch_weapon
+
+================================================================
+======== txAdmin Starting - 13/06/2023 16:23:02                 
+================================================================
+[16:23:10] [beardev111] logged in from 127.0.0.1 via password
+[16:23:27] [beardev111] refresh
+[16:24:30] [beardev111] logged in via in-game ui
+[16:24:56] [beardev111] logged in via in-game ui
+[16:25:28] [beardev111] start ch_spawn
+[16:27:25] [beardev111] start ch_car
+[16:27:30] [beardev111] start ch_gui
+[16:27:33] [beardev111] start ch_hoodcontrol
+[16:27:34] [beardev111] start ch_nui
+[16:27:37] [beardev111] start ch_teleporter
+[16:27:38] [beardev111] start ch_weapon
+[16:28:32] [beardev111] logged in from via NUI iframe
+[16:41:14] [beardev111] start ch_teleporter
+[17:03:06] [beardev111] RESTART SERVER
+[17:04:10] [beardev111] logged in via in-game ui
+
+================================================================
+======== txAdmin Starting - 13/06/2023 17:15:49                 
+================================================================
+
+================================================================
+======== txAdmin Starting - 13/06/2023 17:17:11                 
+================================================================
+[17:17:24] [beardev111] logged in from 127.0.0.1 via password
+[17:18:14] [beardev111] logged in via in-game ui
+
+================================================================
+======== txAdmin Starting - 13/06/2023 17:19:55                 
+================================================================
+
+================================================================
+======== txAdmin Starting - 13/06/2023 17:21:15                 
+================================================================
+[17:21:56] [beardev111] logged in from 127.0.0.1 via password
+[17:22:24] [beardev111] logged in via in-game ui
+[17:27:39] [beardev111] restart ch_teleport
+[17:27:46] [beardev111] restart ch_teleporter
+[17:36:30] [beardev111] restart ch_teleport
+[17:36:38] [beardev111] restart ch_teleport
+[17:36:40] [beardev111] restart ch_teleporter
+
+================================================================
+======== txAdmin Starting - 13/06/2023 19:42:21                 
+================================================================
+[19:43:01] [beardev111] logged in from 127.0.0.1 via password
+[19:44:48] [beardev111] logged in via in-game ui
+
+================================================================
+======== txAdmin Starting - 13/06/2023 19:50:23                 
+================================================================
+
+================================================================
+======== txAdmin Starting - 13/06/2023 19:54:13                 
+================================================================
+[19:55:08] [beardev111] logged in from 127.0.0.1 via password
+[21:14:56] [beardev111] logged in via in-game ui
