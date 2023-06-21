@@ -1,6 +1,6 @@
 RegisterCommand('on', function(_, args)    
     local onlinePlayersId = GetActivePlayers()
-    local onlinePlayersName = []
+    local onlinePlayersName = {}
 
     for index, value in pairs(playersOnline) do
         onlinePlayersName[index] = GetPlayerName(GetPlayerFromIndex(value))

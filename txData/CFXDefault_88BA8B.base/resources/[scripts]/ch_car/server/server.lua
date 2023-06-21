@@ -1,0 +1,1 @@
+TriggerClientEvent('car', playerId)
